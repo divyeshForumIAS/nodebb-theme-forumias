@@ -1,0 +1,37 @@
+{
+	"name": "nodebb-theme-forumias",
+	"description": "A theme that is based on the GitHub design.",
+	"version": "3.0.28",
+	"homepage": "https://github.com/divyeshForumIAS/nodebb-theme-forumias",
+	"license": "MIT",
+	"main": "theme.less",
+	"contributors": [
+		{
+			"name": "divyesh ForumIAS",
+			"email": "divyesh@stellardigital.in",
+			"url": "https://github.com/divyeshForumIAS"
+		}
+	],
+	"keywords": [
+		"nodebb",
+		"theme",
+		"forum",
+		"bootstrap",
+		"responsive",
+		"forumias"
+	],
+	"nbbpm": {
+		"compatibility": "^1.11.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/divyeshForumIAS/nodebbTheme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/divyeshForumIAS/nodebb-theme-forumias/issues"
+	},
+	"dependencies": {
+		"pulling": "^2.0.0",
+		"striptags": "^3.1.1"
+	}
+}
